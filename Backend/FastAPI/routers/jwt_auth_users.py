@@ -5,7 +5,6 @@ from jose import jwt, JWTError
 from passlib.context import CryptContext
 from datetime import datetime, timedelta
 
-
 ## Debemos usar e instalar python-jose[cryptography]
 ## passlib[bcrypt]
 

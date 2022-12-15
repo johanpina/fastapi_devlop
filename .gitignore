@@ -1,2 +1,4 @@
 /.env/
-Backend/FastAPI/__pycache__
+/__pycache__/
+/Backend/FastAPI/__pycache__/
+/Backend/FastAPI/routers/__pycache__/
